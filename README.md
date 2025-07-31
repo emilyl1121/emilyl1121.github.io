@@ -1,1 +1,1 @@
-This is a personal website I build with css and HTML! 
+This website is my first HTML and CSS project! I made a simple website that contains two main pages and acts as a project gallery for my resume. The gallery pages contains the links to the public github repo so people can access my project codes and files. In the main page, there is a simple "about" section which contains a picture of me and some simple descriptions. There are also buttons that leads you to my socials and communications.
