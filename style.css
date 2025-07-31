@@ -201,3 +201,6 @@ p {
 .socials a:hover{
   background-color: #d15d66;
 }
+.bottom container{
+  height: 50px;
+}
